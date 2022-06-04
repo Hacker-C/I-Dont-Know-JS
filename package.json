@@ -1,0 +1,15 @@
+{
+  "name": "web-docs",
+  "version": "1.0.0",
+  "description": "前端笔记",
+  "main": "index.js",
+  "author": "MurphyChen",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.46"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
