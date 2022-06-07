@@ -1,4 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default')
+const { rightAnchorPlugin } = require('vuepress-plugin-right-anchor')
 
 module.exports = {
   lang: 'zh-CN',
@@ -30,7 +31,8 @@ module.exports = {
             { text: '02. 只执行一次的函数', link: '/JS/check-for-gaps/ch02' },
             { text: '03. Node.contains()', link: '/JS/check-for-gaps/ch03' },
             { text: '04. 事件总线 EventBus', link: '/JS/check-for-gaps/ch04' },
-            { text: '05. AOP 在 JS 中的实现', link: '/JS/check-for-gaps/ch05' }
+            { text: '05. AOP 在 JS 中的实现', link: '/JS/check-for-gaps/ch05' },
+            { text: '06. void 运算符', link: '/JS/check-for-gaps/ch06' }
           ]
         },
         {
@@ -67,5 +69,16 @@ module.exports = {
         ]
       }
     ]
-  })
+  }),
+  plugins: [
+    rightAnchorPlugin({
+      customClass: 'customClass',
+      showDepth: 2,
+      ignore: ['/'],
+      expand: {
+        trigger: 'click',
+        clickModeDefaultOpen: true
+      }
+    })
+  ]
 }

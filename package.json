@@ -11,5 +11,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-right-anchor": "2.1.0-rc.2"
   }
 }
