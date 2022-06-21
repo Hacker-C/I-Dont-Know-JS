@@ -10,6 +10,10 @@ module.exports = {
     sidebar: {
       '/JS/': [
         {
+          text: '🏠 开始',
+          link: '/JS/'
+        },
+        {
           text: '🌈 奇技淫巧',
           collapsible: true,
           children: [
@@ -20,9 +24,14 @@ module.exports = {
             { text: '05. 我真不会 parseInt', link: '/JS/uncanny-tricks/ch05' },
             { text: '06. name 的长度是多少', link: '/JS/uncanny-tricks/ch06' },
             { text: '07. 快速产生连续字符序列', link: '/JS/uncanny-tricks/ch07' },
-            { text: ' 08. [...10]', link: '/JS/uncanny-tricks/ch08' }
+            { text: '08. [...10]', link: '/JS/uncanny-tricks/ch08' }
           ]
         },
+        // {
+        //   text: '🎈 早点下班',
+        //   collapsible: true,
+        //   children: [{ text: '01. 简洁的 JS 代码（一）', link: '/JS/clean-code/ch01' }]
+        // },
         {
           text: '🚩 查漏补缺',
           collapsible: true,
@@ -32,13 +41,23 @@ module.exports = {
             { text: '03. Node.contains()', link: '/JS/check-for-gaps/ch03' },
             { text: '04. 事件总线 EventBus', link: '/JS/check-for-gaps/ch04' },
             { text: '05. AOP 在 JS 中的实现', link: '/JS/check-for-gaps/ch05' },
-            { text: '06. void 运算符', link: '/JS/check-for-gaps/ch06' }
+            { text: '06. void 运算符', link: '/JS/check-for-gaps/ch06' },
+            { text: '07. 使对象具有可迭代性', link: '/JS/check-for-gaps/ch07' }
           ]
         },
         {
           text: '🚚 代码模板',
           collapsible: true,
-          children: []
+          children: [
+            {
+              text: '01. 二分搜索篇',
+              link: '/JS/code-templates/ch01'
+            },
+            {
+              text: '02. 快速幂模板',
+              link: '/JS/code-templates/ch02'
+            }
+          ]
         }
       ]
     },

@@ -2,7 +2,7 @@
 home: true
 actions:
   - text: 开始阅读 →
-    link: /JS/uncanny-tricks/ch01
+    link: /JS/
     type: primary
   - text: Source
     link: https://github.com/Hacker-C/I-Dont-Know-JS
