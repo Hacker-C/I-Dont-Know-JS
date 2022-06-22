@@ -56,6 +56,14 @@ module.exports = {
             {
               text: '02. 快速幂模板',
               link: '/JS/code-templates/ch02'
+            },
+            {
+              text: '03. 二叉树遍历模板',
+              link: '/JS/code-templates/ch03'
+            },
+            {
+              text: '04. 随机打乱算法',
+              link: '/JS/code-templates/ch04'
             }
           ]
         }
