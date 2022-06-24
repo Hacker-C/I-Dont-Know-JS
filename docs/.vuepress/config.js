@@ -24,7 +24,8 @@ module.exports = {
             { text: '05. 我真不会 parseInt', link: '/JS/uncanny-tricks/ch05' },
             { text: '06. name 的长度是多少', link: '/JS/uncanny-tricks/ch06' },
             { text: '07. 快速产生连续字符序列', link: '/JS/uncanny-tricks/ch07' },
-            { text: '08. [...10]', link: '/JS/uncanny-tricks/ch08' }
+            { text: '08. [...10]', link: '/JS/uncanny-tricks/ch08' },
+            { text: '09. 连续正则匹配结果不同', link: '/JS/uncanny-tricks/ch09' }
           ]
         },
         // {
