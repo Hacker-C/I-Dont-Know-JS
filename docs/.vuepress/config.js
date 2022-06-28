@@ -43,7 +43,8 @@ module.exports = {
             { text: '04. 事件总线 EventBus', link: '/JS/check-for-gaps/ch04' },
             { text: '05. AOP 在 JS 中的实现', link: '/JS/check-for-gaps/ch05' },
             { text: '06. void 运算符', link: '/JS/check-for-gaps/ch06' },
-            { text: '07. 使对象具有可迭代性', link: '/JS/check-for-gaps/ch07' }
+            { text: '07. 使对象具有可迭代性', link: '/JS/check-for-gaps/ch07' },
+            { text: '08. 柯里化与偏函数', link: '/JS/check-for-gaps/ch08' }
           ]
         },
         {
