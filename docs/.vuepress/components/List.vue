@@ -9,7 +9,7 @@
     <tbody>
       <tr v-for="list in listBody">
         <td v-for="item in list">
-          <a :href="item.link">
+          <a href="javascript:;" @click="goToPage(item.link)">
             {{ item.text }}
           </a>
         </td>
@@ -28,6 +28,11 @@ export default defineComponent({
   data() {
     return {
       sidebar: sidebar[`/${this.type}/`].slice(1)
+    }
+  },
+  methods: {
+    goToPage(link) {
+      this.$router.push(link)
     }
   },
   computed: {
