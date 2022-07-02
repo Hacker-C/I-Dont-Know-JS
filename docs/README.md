@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /images/idkjs.jpg
 actions:
   - text: 开始阅读 →
     link: /JS/
