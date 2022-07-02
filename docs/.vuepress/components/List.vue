@@ -3,12 +3,12 @@
   <table>
     <thead>
       <tr>
-        <td v-for="item in listHead">{{ item }}</td>
+        <td v-for="item in listHead" :key="item">{{ item }}</td>
       </tr>
     </thead>
     <tbody>
-      <tr v-for="list in listBody">
-        <td v-for="item in list">
+      <tr v-for="list in listBody" :key="list">
+        <td v-for="item in list" :key="item">
           <a href="javascript:;" @click="goToPage(item.link)">
             {{ item.text }}
           </a>
@@ -51,12 +51,6 @@ export default defineComponent({
       }
       return res
     }
-  },
-  created() {
-    // props 会暴露到 `this` 上
-    console.log(this.listBody)
   }
 })
 </script>
-
-<style scoped></style>
