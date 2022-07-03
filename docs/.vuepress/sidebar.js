@@ -19,11 +19,6 @@ module.exports = {
         { text: '09. 连续正则匹配结果不同', link: '/JS/uncanny-tricks/ch09' }
       ]
     },
-    // {
-    //   text: '🎈 早点下班',
-    //   collapsible: true,
-    //   children: [{ text: '01. 简洁的 JS 代码（一）', link: '/JS/clean-code/ch01' }]
-    // },
     {
       text: '🚩 查漏补缺',
       collapsible: true,
@@ -59,7 +54,8 @@ module.exports = {
         {
           text: '04. 随机打乱算法',
           link: '/JS/code-templates/ch04'
-        }
+        },
+        { text: ' 05. 巧用 JS 中的运算符', link: '/JS/code-templates/ch05' }
       ]
     }
   ]
