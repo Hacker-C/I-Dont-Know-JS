@@ -55,7 +55,8 @@ module.exports = {
           text: '04. 随机打乱算法',
           link: '/JS/code-templates/ch04'
         },
-        { text: ' 05. 巧用 JS 中的运算符', link: '/JS/code-templates/ch05' }
+        { text: '05. 巧用 JS 中的运算符', link: '/JS/code-templates/ch05' },
+        { text: '06. if-else 代码优化方案', link: '/JS/code-templates/ch06' }
       ]
     }
   ]
