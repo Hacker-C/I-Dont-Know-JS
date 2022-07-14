@@ -32,7 +32,8 @@ module.exports = {
         { text: '07. 使对象具有可迭代性', link: '/JS/check-for-gaps/ch07' },
         { text: '08. 柯里化与偏函数', link: '/JS/check-for-gaps/ch08' },
         { text: '09. 多维数组扁平化', link: '/JS/check-for-gaps/ch09' },
-        { text: '10. 树形与扁平数据结构转换', link: '/JS/check-for-gaps/ch10' }
+        { text: '10. 树形与扁平数据结构转换', link: '/JS/check-for-gaps/ch10' },
+        { text: '11. 深入类型判断', link: '/JS/check-for-gaps/ch11' }
       ]
     },
     {
