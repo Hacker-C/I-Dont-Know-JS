@@ -1,6 +1,8 @@
 # IDK-JS
 
-在线阅读地址：http://idk-js.mphy.top
+在线阅读地址：
+- https://idk-js.mphy.top
+- https://idk-js.vercel.app
 
 ## About
 
@@ -8,7 +10,7 @@
 
 ## Start
 
-文档生成基于 `vuepress@2`。
+文档生成基于 `VitePress`。
 
 克隆：
 ```bash
@@ -22,10 +24,10 @@ yarn install
 
 开发：
 ```bash
-yarn run docs:dev
+yarn docs:dev
 ```
 
 打包：
 ```bash
-yarn run docs:build
+yarn docs:build
 ```
