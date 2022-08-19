@@ -13,7 +13,7 @@ hero:
       link: /JS/intro
     - theme: alt
       text: 源码
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/Hacker-C/I-Dont-Know-JS
 features:
   - icon: 🌈
     title: 奇技淫巧
