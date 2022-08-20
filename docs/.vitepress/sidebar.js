@@ -33,7 +33,7 @@ export default {
         { text: '09. 多维数组扁平化', link: '/JS/check-for-gaps/ch09' },
         { text: '10. 树形与扁平数据结构转换', link: '/JS/check-for-gaps/ch10' },
         { text: '11. 深入类型判断', link: '/JS/check-for-gaps/ch11' },
-        { text: '12. 内置 Symbol 属性的妙用', link: '/JS/check-for-gaps/ch12' }
+        { text: '12. Symbol 内置属性的妙用', link: '/JS/check-for-gaps/ch12' }
       ]
     },
     {
