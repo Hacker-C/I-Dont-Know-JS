@@ -3,6 +3,10 @@ import sidebar from './sidebar'
 export default {
   title: "I Don't Know JS",
   description: 'Just playing around.',
+  markdown: {
+    theme: 'material-palenight',
+    lineNumbers: true
+  },
   themeConfig: {
     footer: {
       message: 'Released under the MIT License.',
