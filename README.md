@@ -26,10 +26,10 @@ yarn install
 
 开发：
 ```bash
-yarn docs:dev
+yarn dev
 ```
 
 打包：
 ```bash
-yarn docs:build
+yarn build
 ```
