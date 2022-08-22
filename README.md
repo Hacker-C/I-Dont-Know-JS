@@ -1,5 +1,7 @@
 # IDK-JS
 
+<p align="center"><img src="https://idk-js.mphy.top/img/idkjs.jpg" width="300"></p>
+
 在线阅读地址：
 - https://idk-js.mphy.top
 - https://idk-js.vercel.app
