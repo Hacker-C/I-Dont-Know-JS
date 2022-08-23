@@ -59,6 +59,10 @@ export default {
         {
           text: '04. 随机打乱算法',
           link: '/JS/code-templates/ch04'
+        },
+        {
+          text: '05. 快速幂',
+          link: '/JS/code-templates/ch05'
         }
       ]
     }
