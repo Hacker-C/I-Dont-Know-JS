@@ -14,7 +14,8 @@ export default {
         { text: '07. 快速产生连续字符序列', link: '/JS/uncanny-tricks/ch07' },
         { text: '08. [...10]', link: '/JS/uncanny-tricks/ch08' },
         { text: '09. 连续正则匹配结果不同', link: '/JS/uncanny-tricks/ch09' },
-        { text: '10. 二维数组初始化问题', link: '/JS/uncanny-tricks/ch10' }
+        { text: '10. 二维数组初始化问题', link: '/JS/uncanny-tricks/ch10' },
+        { text: '11. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch11' }
       ]
     },
     {
