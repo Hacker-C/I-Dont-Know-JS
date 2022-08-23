@@ -15,7 +15,9 @@ export default {
         { text: '08. [...10]', link: '/JS/uncanny-tricks/ch08' },
         { text: '09. 连续正则匹配结果不同', link: '/JS/uncanny-tricks/ch09' },
         { text: '10. 二维数组初始化问题', link: '/JS/uncanny-tricks/ch10' },
-        { text: '11. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch11' }
+        { text: '11. 巧用 JS 中的运算符', link: '/JS/uncanny-tricks/ch11' },
+        { text: '12. if-else 代码优化方案', link: '/JS/uncanny-tricks/ch12' },
+        { text: '13. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch13' }
       ]
     },
     {
@@ -57,9 +59,7 @@ export default {
         {
           text: '04. 随机打乱算法',
           link: '/JS/code-templates/ch04'
-        },
-        { text: '05. 巧用 JS 中的运算符', link: '/JS/code-templates/ch05' },
-        { text: '06. if-else 代码优化方案', link: '/JS/code-templates/ch06' }
+        }
       ]
     }
   ]
