@@ -1,6 +1,14 @@
 export default {
   '/JS/': [
     {
+      text: '😘 来自 JS 之父的善意',
+      collapsed: false,
+      items: [
+        { text: 'Thanks for inventing js', link: '/JS/thanks-for-inventing-js.md' },
+        { text: 'Introduction', link: '/JS/intro.md' },
+      ]
+    },
+    {
       text: '🌈 奇技淫巧',
       collapsible: true,
       collapsed: false,

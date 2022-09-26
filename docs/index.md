@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /JS/intro
+      link: /JS/thanks-for-inventing-js
     - theme: alt
       text: 源码
       link: https://github.com/Hacker-C/I-Dont-Know-JS
