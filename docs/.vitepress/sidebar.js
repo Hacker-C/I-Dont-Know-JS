@@ -5,13 +5,14 @@ export default {
       collapsed: false,
       items: [
         { text: 'Thanks for inventing js', link: '/JS/thanks-for-inventing-js.md' },
-        { text: 'Introduction', link: '/JS/intro.md' },
+        { text: 'Introduction to idk-js', link: '/JS/intro.md' },
+        { text: 'Reading ES Specification', link: '/JS/reading-es-specification.md' },
       ]
     },
     {
       text: '🌈 奇技淫巧',
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: '01. == 与 === 问题', link: '/JS/uncanny-tricks/ch01' },
         { text: '02. foo[1][2][3]', link: '/JS/uncanny-tricks/ch02' },
