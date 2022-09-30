@@ -15,7 +15,7 @@ export default {
     },
     nav: [
       { text: '介绍', link: '/JS/intro' },
-      { text: '关于我', link: 'https://mphy.top' },
+      { text: '关于我', link: 'https://mphy.me' },
       { text: 'Github', link: 'https://github.com/Hacker-C/I-Dont-Know-JS' }
     ],
     sidebar
