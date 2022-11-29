@@ -5,8 +5,8 @@ export default {
       collapsed: false,
       items: [
         { text: 'Thanks for inventing js', link: '/JS/thanks-for-inventing-js.md' },
-        { text: 'Introduction to idk-js', link: '/JS/intro.md' },
-        { text: 'Reading ES Specification', link: '/JS/reading-es-specification.md' },
+        { text: '本书介绍', link: '/JS/intro.md' },
+        { text: 'ES 规范', link: '/JS/reading-es-specification.md' },
       ]
     },
     {
@@ -26,7 +26,8 @@ export default {
         { text: '10. 二维数组初始化问题', link: '/JS/uncanny-tricks/ch10' },
         { text: '11. 巧用 JS 中的运算符', link: '/JS/uncanny-tricks/ch11' },
         { text: '12. if-else 代码优化方案', link: '/JS/uncanny-tricks/ch12' },
-        { text: '13. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch13' }
+        { text: '13. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch13' },
+        { text: '14. [].every(item => false)', link: '/JS/uncanny-tricks/ch14' },
       ]
     },
     {
