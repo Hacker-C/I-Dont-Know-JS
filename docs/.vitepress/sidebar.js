@@ -4,7 +4,7 @@ export default {
       text: '😘 来自 JS 之父的善意',
       collapsed: false,
       items: [
-        { text: 'Thanks for inventing js', link: '/JS/thanks-for-inventing-js.md' },
+        { text: '镇站之图', link: '/JS/thanks-for-inventing-js.md' },
         { text: '本书介绍', link: '/JS/intro.md' },
         { text: 'ES 规范', link: '/JS/reading-es-specification.md' },
       ]
@@ -28,6 +28,7 @@ export default {
         { text: '12. if-else 代码优化方案', link: '/JS/uncanny-tricks/ch12' },
         { text: '13. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch13' },
         { text: '14. [].every(item => false)', link: '/JS/uncanny-tricks/ch14' },
+        { text: '15. isNaN 和 Number.isNaN', link: '/JS/uncanny-tricks/ch15' },
       ]
     },
     {
