@@ -1,1 +1,1 @@
-ES 规范阅读计划：https://tc39.es/ecma262
+ES 规范：https://tc39.es/ecma262
