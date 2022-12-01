@@ -1,7 +1,7 @@
 export default {
   '/JS/': [
     {
-      text: '😘 来自 JS 之父的善意',
+      text: '来自 JS 之父的善意',
       collapsed: false,
       items: [
         { text: '镇站之图', link: '/JS/thanks-for-inventing-js.md' },

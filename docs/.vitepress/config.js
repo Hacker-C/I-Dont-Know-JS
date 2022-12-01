@@ -8,6 +8,7 @@ export default {
     lineNumbers: true
   },
   themeConfig: {
+    logo: 'favicon.ico',
     footer: {
       message: 'Released under the MIT License.',
       copyright:
