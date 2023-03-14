@@ -25,14 +25,13 @@ export default {
         { text: '09. 连续正则匹配结果不同', link: '/JS/uncanny-tricks/ch09' },
         { text: '10. 二维数组初始化问题', link: '/JS/uncanny-tricks/ch10' },
         { text: '11. 巧用 JS 中的运算符', link: '/JS/uncanny-tricks/ch11' },
-        { text: '12. if-else 代码优化方案', link: '/JS/uncanny-tricks/ch12' },
-        { text: '13. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch13' },
-        { text: '14. [].every(item => false)', link: '/JS/uncanny-tricks/ch14' },
-        { text: '15. isNaN 和 Number.isNaN', link: '/JS/uncanny-tricks/ch15' },
+        { text: '12. 万物皆可 reduce', link: '/JS/uncanny-tricks/ch12' },
+        { text: '13. [].every(item => false)', link: '/JS/uncanny-tricks/ch13' },
+        { text: '14. isNaN 和 Number.isNaN', link: '/JS/uncanny-tricks/ch14' },
       ]
     },
     {
-      text: '🚩 查漏补缺',
+      text: '🚩 实用知识',
       collapsible: true,
       collapsed: true,
       items: [
@@ -47,7 +46,8 @@ export default {
         { text: '09. 多维数组扁平化', link: '/JS/check-for-gaps/ch09' },
         { text: '10. 树形与扁平数据结构转换', link: '/JS/check-for-gaps/ch10' },
         { text: '11. 深入类型判断', link: '/JS/check-for-gaps/ch11' },
-        { text: '12. Symbol 内置属性的妙用', link: '/JS/check-for-gaps/ch12' }
+        { text: '12. Symbol 内置属性的妙用', link: '/JS/check-for-gaps/ch12' },
+        { text: '13. if-else 代码优化方案', link: '/JS/check-for-gaps/ch13' },
       ]
     },
     {
