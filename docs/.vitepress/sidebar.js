@@ -48,6 +48,7 @@ export default {
         { text: '11. 深入类型判断', link: '/JS/check-for-gaps/ch11' },
         { text: '12. Symbol 内置属性的妙用', link: '/JS/check-for-gaps/ch12' },
         { text: '13. if-else 代码优化方案', link: '/JS/check-for-gaps/ch13' },
+        { text: '14. URLSearchParams 的妙用', link: '/JS/check-for-gaps/ch14' }
       ]
     },
     {

@@ -2,10 +2,10 @@
 
 ## 最近更新
 
+- [URLSearchParams 的妙用](/JS/check-for-gaps/ch14)
 - [isNaN 和 Number.isNaN](/JS/uncanny-tricks/ch14)
 - [[].every(item => false)](/JS/uncanny-tricks/ch14)
 - [万物皆可 reduce](/JS/uncanny-tricks/ch12)
-- [Symbol 内置属性的妙用](/JS/check-for-gaps/ch12)
 
 ## 目录说明
 
