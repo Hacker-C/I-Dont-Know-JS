@@ -3,8 +3,7 @@
 <p align="center"><img src="https://idkjs.mphy.top/img/idkjs.jpg" width="300"></p>
 
 在线阅读地址：
-- https://idk-js.mphy.top
-- https://idk-js.vercel.app
+- https://idkjs.mphy.top
 
 ## About
 
