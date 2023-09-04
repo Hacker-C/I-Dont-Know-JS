@@ -1,1 +1,0 @@
-ES 规范：https://tc39.es/ecma262

@@ -1,12 +1,9 @@
 export default {
   '/JS/': [
     {
-      text: '来自 JS 之父的善意',
-      collapsed: false,
       items: [
         { text: '镇站之图', link: '/JS/thanks-for-inventing-js.md' },
-        { text: '本书介绍', link: '/JS/intro.md' },
-        { text: 'ES 规范', link: '/JS/reading-es-specification.md' },
+        { text: '本书介绍', link: '/JS/intro.md' }
       ]
     },
     {
@@ -72,6 +69,21 @@ export default {
           text: '04. 随机打乱算法',
           link: '/JS/code-templates/ch04'
         }
+      ]
+    },
+    {
+      text: '📘 日常随记',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        {
+          text: 'JavaScript',
+          link: '/JS/daily-notes/JavaScript'
+        },
+        {
+          text: 'CSS',
+          link: '/JS/daily-notes/CSS'
+        },
       ]
     }
   ]

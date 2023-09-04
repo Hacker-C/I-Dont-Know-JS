@@ -1,11 +1,12 @@
 # Thanks for inventing JavaScript
 
 先来张祖师爷的图镇站：
+
 ![Thanks for inventing JavaScript](/img/thanks-for-inventing-js.png)
 
 接下来，我将一一分析这其中的原理。
 
-> 不会很详细的讲解的知识点，而是设计到哪个说哪个。这其中大部分是 JS 的隐式转换问题。不了解这部分的同学，建议栈内搜索：JS 隐式转换。
+> 不会很详细的讲解的知识点，这其中大部分是 JS 的隐式转换问题。不了解这部分的同学，建议提前搜索相关知识。
 
 好了，我们开始。
 

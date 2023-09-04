@@ -14,3 +14,8 @@
 ## 更新记录
 
 <List type='JS'/>
+
+## ES 规范
+
+当你遇到 JS 中无法解决的问题，首先是查 MDN，其次是查 ES 规范：
+https://tc39.es/ecma262
