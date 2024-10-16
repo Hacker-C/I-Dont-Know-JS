@@ -12,7 +12,7 @@ export default {
       collapsed: true,
       items: [
         { text: '01. == 与 === 问题', link: '/JS/uncanny-tricks/ch01' },
-        { text: '02. foo[1][2][3]', link: '/JS/uncanny-tricks/ch02' },
+        { text: '02. foo[1][2][3] 累加器', link: '/JS/uncanny-tricks/ch02' },
         { text: '03. “数组” 负数取值', link: '/JS/uncanny-tricks/ch03' },
         { text: '04. (1).add(2).add(3)', link: '/JS/uncanny-tricks/ch04' },
         { text: '05. 我真不会 parseInt', link: '/JS/uncanny-tricks/ch05' },
